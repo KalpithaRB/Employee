@@ -1,0 +1,21 @@
+.Apps-section-container{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.apps-container{
+    display: flex;
+    font-size: 11px;
+}
+
+.Employee-container{
+    display: flex;
+}
+
+.svg-icon-container{
+    display: flex;
+}
+
+.employee-container{
+    display: flex;
+}
